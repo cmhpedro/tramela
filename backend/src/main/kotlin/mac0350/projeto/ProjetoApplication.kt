@@ -1,11 +1,11 @@
-package mac0350.projeto
+package ccsl.tramela
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class ProjetoApplication
+class TramelaApplication
 
 fun main(args: Array<String>) {
-	runApplication<ProjetoApplication>(*args)
+	runApplication<TramelaApplication>(*args)
 }
